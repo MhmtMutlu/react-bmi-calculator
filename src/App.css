@@ -1,0 +1,27 @@
+.App {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 10em auto;
+  width: 50em;
+  height: 28em;
+  border: 0.1em solid #5e60ce;
+  border-radius: 45px;
+  background: linear-gradient(to left, #ace5ff, #4d80e4) no-repeat no-repeat center center fixed;
+}
+
+@media only screen and (max-width: 900px) {
+  .App {
+    width: 30em;
+    height: 28em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    width: 25em;
+    height: 28em;
+  }
+}
+
+

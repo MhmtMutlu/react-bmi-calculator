@@ -1,0 +1,11 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #21d4fd, #b721ff) no-repeat no-repeat center center fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
