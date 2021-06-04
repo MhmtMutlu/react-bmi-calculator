@@ -2,7 +2,7 @@
 
 <a href="https://react-bmi-calculator-app.netlify.app">Go to Website<a/>
   
-# 💻 Technologies
+# 🧰 Toolbox
   
 <ul style="list-style-type:disc">
    <li><a href="https://reactjs.org">ReactJS</a></li>
